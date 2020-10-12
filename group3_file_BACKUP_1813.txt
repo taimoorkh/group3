@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-
-new line added 
-=======
-changed by taimoor
->>>>>>> d9140908e326cacee7d4ddf8c5117398f85c5f62
