@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 
 new line added by Swostik
+=======
+>>>>>>> caa394a85e55b8cadd6f83809ada3078e5f79ebf
